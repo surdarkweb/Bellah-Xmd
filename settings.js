@@ -27,7 +27,7 @@ global.packname = process.env.PACK_NAME ||"BELLAH XMD" //enter your stickers aut
 global.author = "Giddy-Tennor"
 global.creator = "254703726139@s.whatsapp.net"
 global.xprefix = process.env.PREFIX ||'.'
-global.premium = ["2348101699340"] // Premium User
+global.premium = ["2349016633346"] // Premium User
 global.hituet = 0
 
 //bot sett
